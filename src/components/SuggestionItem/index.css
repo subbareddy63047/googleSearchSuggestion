@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1px;
+
+  width: 90%;
+}
+.list-para {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 400;
+}
+.arrow-icon-image {
+  margin-top: 25px;
+  height: 20px;
+  width: 20px;
+}

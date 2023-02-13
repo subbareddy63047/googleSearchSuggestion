@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.main-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.google-image {
+  margin-top: 10%;
+  height: 10%;
+  width: 30%;
+  margin-bottom: 12px;
+}
+.card-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  width: 50%;
+  border-style: solid;
+  border-color: #475569;
+  border-width: 2px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+.search-icon-image {
+  margin-top: 10px;
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+}
+.input {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 400;
+  padding: 10px;
+  border-width: 0px;
+  width: 70%;
+}
